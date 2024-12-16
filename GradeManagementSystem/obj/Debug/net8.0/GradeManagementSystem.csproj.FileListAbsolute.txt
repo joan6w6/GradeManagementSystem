@@ -1,0 +1,14 @@
+D:\USER\Desktop\C#\20241129\GradeManagementSystem\GradeManagementSystem\GradeManagementSystem\bin\Debug\net8.0\GradeManagementSystem.exe
+D:\USER\Desktop\C#\20241129\GradeManagementSystem\GradeManagementSystem\GradeManagementSystem\bin\Debug\net8.0\GradeManagementSystem.deps.json
+D:\USER\Desktop\C#\20241129\GradeManagementSystem\GradeManagementSystem\GradeManagementSystem\bin\Debug\net8.0\GradeManagementSystem.runtimeconfig.json
+D:\USER\Desktop\C#\20241129\GradeManagementSystem\GradeManagementSystem\GradeManagementSystem\bin\Debug\net8.0\GradeManagementSystem.dll
+D:\USER\Desktop\C#\20241129\GradeManagementSystem\GradeManagementSystem\GradeManagementSystem\bin\Debug\net8.0\GradeManagementSystem.pdb
+D:\USER\Desktop\C#\20241129\GradeManagementSystem\GradeManagementSystem\GradeManagementSystem\obj\Debug\net8.0\GradeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\USER\Desktop\C#\20241129\GradeManagementSystem\GradeManagementSystem\GradeManagementSystem\obj\Debug\net8.0\GradeManagementSystem.AssemblyInfoInputs.cache
+D:\USER\Desktop\C#\20241129\GradeManagementSystem\GradeManagementSystem\GradeManagementSystem\obj\Debug\net8.0\GradeManagementSystem.AssemblyInfo.cs
+D:\USER\Desktop\C#\20241129\GradeManagementSystem\GradeManagementSystem\GradeManagementSystem\obj\Debug\net8.0\GradeManagementSystem.csproj.CoreCompileInputs.cache
+D:\USER\Desktop\C#\20241129\GradeManagementSystem\GradeManagementSystem\GradeManagementSystem\obj\Debug\net8.0\GradeManagementSystem.dll
+D:\USER\Desktop\C#\20241129\GradeManagementSystem\GradeManagementSystem\GradeManagementSystem\obj\Debug\net8.0\refint\GradeManagementSystem.dll
+D:\USER\Desktop\C#\20241129\GradeManagementSystem\GradeManagementSystem\GradeManagementSystem\obj\Debug\net8.0\GradeManagementSystem.pdb
+D:\USER\Desktop\C#\20241129\GradeManagementSystem\GradeManagementSystem\GradeManagementSystem\obj\Debug\net8.0\GradeManagementSystem.genruntimeconfig.cache
+D:\USER\Desktop\C#\20241129\GradeManagementSystem\GradeManagementSystem\GradeManagementSystem\obj\Debug\net8.0\ref\GradeManagementSystem.dll
